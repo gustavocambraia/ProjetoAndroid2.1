@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ProjetoAndroid</string>
+    <string name="dica_senha">Digite sua senha</string>
+    <string name="dica_login">Digite seu login</string>
+    <string name="quero_me_cadastrar">Quero me cadastrar</string>
+    <string name="digite_sua_mensagem">Digite a sua mensagem</string>
+    <string name="data_nome">Em %s, %s diz:</string>
+    <string-array name="tarefas">
+        <item>Estudar</item>
+        <item>Evento</item>
+        <item>Palestra</item>
+        <item>Entrega Trabalho</item>
+        <item>Entrevista de empregosadasdasdasd</item>
+        <item>Role</item>
+        <item>Workshop</item>
+    </string-array>
+
+    <string-array name="datas_cadastro">
+        <item>06/11/2020</item>
+        <item>06/11/2020</item>
+        <item>06/11/2020</item>
+        <item>06/11/2020</item>
+        <item>06/11/2020</item>
+        <item>06/11/2020</item>
+        <item>06/11/2020</item>
+    </string-array>
+
+    <string-array name="datas_previsao">
+        <item>30/11/2020</item>
+        <item>30/11/2020</item>
+        <item>30/11/2020</item>
+        <item>30/11/2020</item>
+        <item>30/11/2020</item>
+        <item>30/11/2020</item>
+        <item>30/11/2020</item>
+    </string-array>
+</resources>
